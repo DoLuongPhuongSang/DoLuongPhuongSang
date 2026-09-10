@@ -7,21 +7,21 @@
 ---
 
 ## 👋 About Me
-<table border="0">
-  <tr>
-    <td valign="top">
-      <p>Hi! I'm <b>Đỗ Lương Phương Sang</b>, an <b>Information Technology student</b> at the <b>University of Information Technology (UIT), VNU-HCM</b>.</p>
-      <p>I'm <b>passionate</b> about <b>building practical software products</b>, with a primary focus on <b>full-stack web development</b> and application architecture. Along the way, I've also explored <b>mobile application development</b> and gained hands-on experience with data processing and data annotation through academic projects.</p>
-      <p>I enjoy learning through <b>building real projects</b> — from designing user interfaces and developing APIs to <b>working with databases</b> and connecting different technologies into a complete application.</p>
-    </td>
-  </tr>
-</table>
+
+Hi! I'm **Đỗ Lương Phương Sang**, an **Information Technology student** at the **University of Information Technology (UIT), VNU-HCM**.
+
+I'm passionate about **building practical software products**, with a primary focus on **full-stack web development** and **application architecture**. I also have hands-on experience in **mobile application development**, **data processing**, and **data annotation** through academic and personal projects.
+
+I enjoy learning by **building real-world projects** — from designing user interfaces and developing APIs to **working with databases**, integrating services, and connecting different technologies into complete applications.
+
 * 🎓 **Information Technology Student** at UIT - VNUHCM
-* 💻 Interested in **Full-Stack Web Development & Full-Stack Architectures**
-* 📱 Interested in **Mobile Application Development**
-* 📊 Have experience with **Data Processing & Data Annotation**
-* 🗺️ Enjoy working with **Interactive Maps**
+* 💻 **Full-Stack Web Development & Application Architecture**
+* 📱 **Mobile Application Development**
+* 📊 **Data Processing & Data Annotation**
+* 🗺️ **Interactive Maps & Location-Based Applications**
+
 ---
+
 
 ## 🛠️ Technologies & Tools
 
