@@ -1,7 +1,6 @@
 <div align="center">
 
-# Đỗ Lương Phương Sang
-### Hi, I'm Phuong Sang! 👋
+<img width="100%" src="./assets/header.png" alt="Header" />
 
 </div>
 
