@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoLuongPhuongSang&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -25,14 +25,9 @@
   <tr>
     <td valign="top">
       <p>Hi! I'm <b>Đỗ Lương Phương Sang</b>, an <b>Information Technology student</b> at the <b>University of Information Technology (UIT), VNU-HCM</b>.</p>
-
-```
-  <p>I'm <b>passionate</b> about <b>building practical software products</b>, with a primary focus on <b>full-stack web development</b> and application architecture. Along the way, I've also explored <b>mobile application development</b> and gained hands-on experience with data processing and data annotation through academic projects.</p>
-
-  <p>I enjoy learning through <b>building real projects</b> — from designing user interfaces and developing APIs to <b>working with databases</b> and connecting different technologies into a complete application.</p>
-</td>
-```
-
+      <p>I'm <b>passionate</b> about <b>building practical software products</b>, with a primary focus on <b>full-stack web development</b> and application architecture. Along the way, I've also explored <b>mobile application development</b> and gained hands-on experience with data processing and data annotation through academic projects.</p>
+      <p>I enjoy learning through <b>building real projects</b> — from designing user interfaces and developing APIs to <b>working with databases</b> and connecting different technologies into a complete application.</p>
+    </td>
   </tr>
 </table>
 
