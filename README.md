@@ -18,7 +18,7 @@ I enjoy learning by **building real-world projects** — from designing user int
 * 💻 **Full-Stack Web Development & Application Architecture**
 * 📱 **Mobile Application Development**
 * 📊 **Data Processing & Data Annotation**
-* 🗺️ **Interactive Maps & Location-Based Applications**
+* 🗺️ **Interactive Maps**
 
 ---
 
