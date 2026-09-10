@@ -6,21 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Information%20Technology%20Student-at%20UIT-blue?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/Exploring-Full--Stack%20Web%20Development-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interested%20in-Mobile%20App%20Development-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Working%20with-Data%20Processing%20%26%20Annotation-informational?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
+## 👋 About Me
 <table border="0">
   <tr>
     <td valign="top">
@@ -30,7 +16,11 @@
     </td>
   </tr>
 </table>
-
+* 🎓 **Information Technology Student** at UIT - VNUHCM
+* 💻 Interested in **Full-Stack Web Development & Full-Stack Architectures**
+* 📱 Interested in **Mobile Application Development**
+* 📊 Have experience with **Data Processing & Data Annotation**
+* 🗺️ Enjoy working with **Interactive Maps**
 ---
 
 ## 🛠️ Technologies & Tools
@@ -106,12 +96,11 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:doluongphuongsang@gmail.com">
